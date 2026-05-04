@@ -7,7 +7,7 @@ An AI-powered interactive story platform where every choice branches into a trul
 ## Current Status
 
 - [x] Phase 1 — Express server with Groq API integration
-- [ ] Phase 2 — Dynamic prompts with genre, character, and history
+- [x] Phase 2 — Dynamic prompts with genre, character, and history
 - [ ] Phase 3 — React frontend
 - [ ] Phase 4 — Full game loop
 - [ ] Phase 5 — UI polish and deployment
